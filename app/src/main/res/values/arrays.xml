@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Abadia dos Dourados</item>
+        <item>Abaeté</item>
+        <item>Abre-Campo</item>
+        <item>Acaiaca</item>
+        <item>Açucena</item>
+        <item>água Boa</item>
+        <item>água Comprida</item>
+        <item>Aguanil</item>
+        <item>águas Formosas</item>
+        <item>águas Vermelhas</item>
+        <item>Aimorés</item>
+        <item>Aiuruoca</item>
+        <item>Alagoa</item>
+        <item>Albertina</item>
+        <item>Além Paraíba</item>
+        <item>Alfenas</item>
+        <item>Alfredo Vasconcelos</item>
+        <item>Almenara</item>
+        <item>Alpercata</item>
+        <item>Alpinópolis</item>
+        <item>Alterosa</item>
+        <item>Alto Caparaó</item>
+        <item>Alto Jequitibá</item>
+        <item>Alto Rio Doce</item>
+        <item>Alvarenga</item>
+        <item>Alvinópolis</item>
+        <item>Alvorada de Minas</item>
+        <item>Amparo da Serra</item>
+        <item>Andradas</item>
+        <item>Andrelândia</item>
+        <item>Angelândia</item>
+        <item>Antônio Carlos</item>
+        <item>Antônio Dias</item>
+        <item>Antônio Prado de Minas</item>
+        <item>Araçaí</item>
+        <item>Aracitaba</item>
+        <item>Araçuaí</item>
+        <item>Araguari</item>
+        <item>Arantina</item>
+        <item>Araponga</item>
+        <item>Araporã</item>
+        <item>Arapuá</item>
+        <item>Araújos</item>
+        <item>Araxá</item>
+        <item>Arceburgo</item>
+        <item>Arcos</item>
+        <item>Areado</item>
+        <item>Argirita</item>
+        <item>Aricanduva</item>
+        <item>Arinos</item>
+        <item>Astolfo Dutra</item>
+        <item>Ataléia</item>
+        <item>Augusto de Lima</item>
+        <item>Baependi</item>
+        <item>Baldim</item>
+        <item>Bambuí</item>
+        <item>Bandeira</item>
+        <item>Bandeira do Sul</item>
+        <item>Barão de Cocais</item>
+        <item>Barão do Monte Alto</item>
+        <item>Barbacena</item>
+        <item>Barra Longa</item>
+        <item>Barroso</item>
+        <item>Bela Vista de Minas</item>
+        <item>Belmiro Braga</item>
+        <item>Belo Horizonte</item>
+        <item>Belo Oriente</item>
+        <item>Belo Vale</item>
+        <item>Berilo</item>
+        <item>Berizal</item>
+        <item>Bertópolis</item>
+        <item>Betim</item>
+        <item>Bias Fortes</item>
+        <item>Bicas</item>
+        <item>Biquinhas</item>
+        <item>Boa Esperança</item>
+        <item>Bocaina de Minas</item>
+        <item>Bocaiúva</item>
+        <item>Bom Despacho</item>
+        <item>Bom Jardim de Minas</item>
+        <item>Bom Jesus da Penha</item>
+        <item>Bom Jesus do Amparo</item>
+        <item>Bom Jesus do Galho</item>
+        <item>Bom Repouso</item>
+        <item>Bom Sucesso</item>
+        <item>Bonfim</item>
+        <item>Bonfinópolis de Minas</item>
+        <item>Bonito de Minas</item>
+        <item>Borda da Mata</item>
+        <item>Botelhos</item>
+        <item>Botumirim</item>
+        <item>Brás Pires</item>
+        <item>Brasilândia de Minas</item>
+        <item>Brasília de Minas</item>
+        <item>Braúnas</item>
+        <item>Brazópolis</item>
+        <item>Brumadinho</item>
+        <item>Bueno Brandão</item>
+        <item>Buenópolis</item>
+        <item>Bugre</item>
+        <item>Buritis</item>
+        <item>Buritizeiro</item>
+        <item>Cabeceira Grande</item>
+        <item>Cabo Verde</item>
+        <item>Cachoeira da Prata</item>
+        <item>Cachoeira de Minas</item>
+        <item>Cachoeira de Pajeú</item>
+        <item>Cachoeira Dourada</item>
+        <item>Caetanópolis</item>
+        <item>Caeté</item>
+        <item>Caiana</item>
+        <item>Cajuri</item>
+        <item>Caldas</item>
+        <item>Camacho</item>
+        <item>Camanducaia</item>
+        <item>Cambuí</item>
+        <item>Cambuquira</item>
+        <item>Campanário</item>
+        <item>Campanha</item>
+        <item>Campestre</item>
+        <item>Campina Verde</item>
+        <item>Campo Azul</item>
+        <item>Campo Belo</item>
+        <item>Campo do Meio</item>
+        <item>Campo Florido</item>
+        <item>Campos Altos</item>
+        <item>Campos Gerais</item>
+        <item>Cana Verde</item>
+        <item>Canaã</item>
+        <item>Canápolis</item>
+        <item>Candeias</item>
+        <item>Cantagalo</item>
+        <item>Caparaó</item>
+        <item>Capela Nova</item>
+        <item>Capelinha</item>
+        <item>Capetinga</item>
+        <item>Capim Branco</item>
+        <item>Capinópolis</item>
+        <item>Capitão Andrade</item>
+        <item>Capitão Enéas</item>
+        <item>Capitólio</item>
+        <item>Caputira</item>
+        <item>Caraí</item>
+        <item>Caranaíba</item>
+        <item>Carandaí</item>
+        <item>Carangola</item>
+        <item>Caratinga</item>
+        <item>Carbonita</item>
+        <item>Careaçu</item>
+        <item>Carlos Chagas</item>
+        <item>Carmésia</item>
+        <item>Carmo da Cachoeira</item>
+        <item>Carmo da Mata</item>
+        <item>Carmo de Minas</item>
+        <item>Carmo do Cajuru</item>
+        <item>Carmo do Paranaíba</item>
+        <item>Carmo do Rio Claro</item>
+        <item>Carmópolis de Minas</item>
+        <item>Carneirinho</item>
+        <item>Carrancas</item>
+        <item>Carvalhópolis</item>
+        <item>Carvalhos</item>
+        <item>Casa Grande</item>
+        <item>Cascalho Rico</item>
+        <item>Cássia</item>
+        <item>Cataguases</item>
+        <item>Catas Altas</item>
+        <item>Catas Altas da Noruega</item>
+        <item>Catuji</item>
+        <item>Catuti</item>
+        <item>Caxambu</item>
+        <item>Cedro do Abaeté</item>
+        <item>Central de Minas</item>
+        <item>Centralina</item>
+        <item>Chácara</item>
+        <item>Chalé</item>
+        <item>Chapada do Norte</item>
+        <item>Chapada Gaúcha</item>
+        <item>Chiador</item>
+        <item>Cipotânea</item>
+        <item>Claraval</item>
+        <item>Claro dos Poções</item>
+        <item>Cláudio</item>
+        <item>Coimbra</item>
+        <item>Coluna</item>
+        <item>Comendador Gomes</item>
+        <item>Comercinho</item>
+        <item>Conceição da Aparecida</item>
+        <item>Conceição da Barra de Minas</item>
+        <item>Conceição das Alagoas</item>
+        <item>Conceição das Pedras</item>
+        <item>Conceição de Ipanema</item>
+        <item>Conceição do Mato Dentro</item>
+        <item>Conceição do Pará</item>
+        <item>Conceição do Rio Verde</item>
+        <item>Conceição dos Ouros</item>
+        <item>Cônego Marinho</item>
+        <item>Confins</item>
+        <item>Congonhal</item>
+        <item>Congonhas</item>
+        <item>Congonhas do Norte</item>
+        <item>Conquista</item>
+        <item>Conselheiro Lafaiete</item>
+        <item>Conselheiro Pena</item>
+        <item>Consolação</item>
+        <item>Contagem</item>
+        <item>Coqueiral</item>
+        <item>Coração de Jesus</item>
+        <item>Cordisburgo</item>
+        <item>Cordislândia</item>
+        <item>Corinto</item>
+        <item>Coroaci</item>
+        <item>Coromandel</item>
+        <item>Coronel Fabriciano</item>
+        <item>Coronel Murta</item>
+        <item>Coronel Pacheco</item>
+        <item>Coronel Xavier Chaves</item>
+        <item>Córrego Danta</item>
+        <item>Córrego do Bom Jesus</item>
+        <item>Córrego Fundo</item>
+        <item>Córrego Novo</item>
+        <item>Couto de Magalhães de Minas</item>
+        <item>Crisólita</item>
+        <item>Cristais</item>
+        <item>Cristália</item>
+        <item>Cristiano Otôni</item>
+        <item>Cristina</item>
+        <item>Crucilândia</item>
+        <item>Cruzeiro da Fortaleza</item>
+        <item>Cruzília</item>
+        <item>Cuparaque</item>
+        <item>Curral de Dentro</item>
+        <item>Curvelo</item>
+        <item>Datas</item>
+        <item>Delfim Moreira</item>
+        <item>Delfinópolis</item>
+        <item>Delta</item>
+        <item>Descoberto</item>
+        <item>Desterro de Entre-Rios</item>
+        <item>Desterro do Melo</item>
+        <item>Diamantina</item>
+        <item>Diogo de Vasconcelos</item>
+        <item>Dionísio</item>
+        <item>Divinésia</item>
+        <item>Divino</item>
+        <item>Divino das Laranjeiras</item>
+        <item>Divinolândia de Minas</item>
+        <item>Divinópolis</item>
+        <item>Divisa Alegre</item>
+        <item>Divisa Nova</item>
+        <item>Divisópolis</item>
+        <item>Dom Bosco</item>
+        <item>Dom Cavati</item>
+        <item>Dom Joaquim</item>
+        <item>Dom Silvério</item>
+        <item>Dom Viçoso</item>
+        <item>Dona Euzébia</item>
+        <item>Dores de Campos</item>
+        <item>Dores de Guanhães</item>
+        <item>Dores do Indaiá</item>
+        <item>Dores do Turvo</item>
+        <item>Doresópolis</item>
+        <item>Douradoquara</item>
+        <item>Durandé</item>
+        <item>Elói Mendes</item>
+        <item>Engenheiro Caldas</item>
+        <item>Engenheiro Navarro</item>
+        <item>Entre-Folhas</item>
+        <item>Entre-Rios de Minas</item>
+        <item>Ervália</item>
+        <item>Esmeraldas</item>
+        <item>Espera Feliz</item>
+        <item>Espinosa</item>
+        <item>Espírito Santo do Dourado</item>
+        <item>Estiva</item>
+        <item>Estrela do Indaiá</item>
+        <item>Estrela do Sul</item>
+        <item>Estrela-d\'Alva</item>
+        <item>Eugenópolis</item>
+        <item>Ewbank da Câmara</item>
+        <item>Extrema</item>
+        <item>Fama</item>
+        <item>Faria Lemos</item>
+        <item>Felício dos Santos</item>
+        <item>Felisburgo</item>
+        <item>Felixlândia</item>
+        <item>Fernandes Tourinho</item>
+        <item>Ferros</item>
+        <item>Fervedouro</item>
+        <item>Florestal</item>
+        <item>Formiga</item>
+        <item>Formoso</item>
+        <item>Fortaleza de Minas</item>
+        <item>Fortuna de Minas</item>
+        <item>Francisco Badaró</item>
+        <item>Francisco Dumont</item>
+        <item>Francisco Sá</item>
+        <item>Franciscópolis</item>
+        <item>Frei Gaspar</item>
+        <item>Frei Inocêncio</item>
+        <item>Frei Lagonegro</item>
+        <item>Fronteira</item>
+        <item>Fronteira dos Vales</item>
+        <item>Fruta-de-Leite</item>
+        <item>Frutal</item>
+        <item>Funilândia</item>
+        <item>Galiléia</item>
+        <item>Gameleiras</item>
+        <item>Glaucilândia</item>
+        <item>Goiabeira</item>
+        <item>Goianá</item>
+        <item>Gonçalves</item>
+        <item>Gonzaga</item>
+        <item>Gouveia</item>
+        <item>Governador Valadares</item>
+        <item>Grão-Mogol</item>
+        <item>Grupiara</item>
+        <item>Guanhães</item>
+        <item>Guapé</item>
+        <item>Guaraciaba</item>
+        <item>Guaraciama</item>
+        <item>Guaranésia</item>
+        <item>Guarani</item>
+        <item>Guarará</item>
+        <item>Guarda-Mor</item>
+        <item>Guaxupé</item>
+        <item>Guidoval</item>
+        <item>Guimarânia</item>
+        <item>Guiricema</item>
+        <item>Gurinhatã</item>
+        <item>Heliodora</item>
+        <item>Iapu</item>
+        <item>Ibertioga</item>
+        <item>Ibiá</item>
+        <item>Ibiaí</item>
+        <item>Ibiracatu</item>
+        <item>Ibiraci</item>
+        <item>Ibirité</item>
+        <item>Ibitiúra de Minas</item>
+        <item>Ibituruna</item>
+        <item>Icaraí de Minas</item>
+        <item>Igarapé</item>
+        <item>Igaratinga</item>
+        <item>Iguatama</item>
+        <item>Ijaci</item>
+        <item>Ilicínea</item>
+        <item>Imbé de Minas</item>
+        <item>Inconfidentes</item>
+        <item>Indaiabira</item>
+        <item>Indianópolis</item>
+        <item>Ingaí</item>
+        <item>Inhapim</item>
+        <item>Inhaúma</item>
+        <item>Inimutaba</item>
+        <item>Ipaba</item>
+        <item>Ipanema</item>
+        <item>Ipatinga</item>
+        <item>Ipiaçu</item>
+        <item>Ipuiúna</item>
+        <item>Iraí de Minas</item>
+        <item>Itabira</item>
+        <item>Itabirinha</item>
+        <item>Itabirito</item>
+        <item>Itacambira</item>
+        <item>Itacarambi</item>
+        <item>Itaguara</item>
+        <item>Itaipé</item>
+        <item>Itajubá</item>
+        <item>Itamarandiba</item>
+        <item>Itamarati de Minas</item>
+        <item>Itambacuri</item>
+        <item>Itambé do Mato Dentro</item>
+        <item>Itamoji</item>
+        <item>Itamonte</item>
+        <item>Itanhandu</item>
+        <item>Itanhomi</item>
+        <item>Itaobim</item>
+        <item>Itapagipe</item>
+        <item>Itapecerica</item>
+        <item>Itapeva</item>
+        <item>Itatiaiuçu</item>
+        <item>Itaú de Minas</item>
+        <item>Itaúna</item>
+        <item>Itaverava</item>
+        <item>Itinga</item>
+        <item>Itueta</item>
+        <item>Ituiutaba</item>
+        <item>Itumirim</item>
+        <item>Iturama</item>
+        <item>Itutinga</item>
+        <item>Jabuticatubas</item>
+        <item>Jacinto</item>
+        <item>Jacuí</item>
+        <item>Jacutinga</item>
+        <item>Jaguaraçu</item>
+        <item>Jaíba</item>
+        <item>Jampruca</item>
+        <item>Janaúba</item>
+        <item>Januária</item>
+        <item>Japaraíba</item>
+        <item>Japonvar</item>
+        <item>Jeceaba</item>
+        <item>Jenipapo de Minas</item>
+        <item>Jequeri</item>
+        <item>Jequitaí</item>
+        <item>Jequitibá</item>
+        <item>Jequitinhonha</item>
+        <item>Jesuânia</item>
+        <item>Joaíma</item>
+        <item>Joanésia</item>
+        <item>João Monlevade</item>
+        <item>João Pinheiro</item>
+        <item>Joaquim Felício</item>
+        <item>Jordânia</item>
+        <item>José Gonçalves de Minas</item>
+        <item>José Raydan</item>
+        <item>Josenópolis</item>
+        <item>Juatuba</item>
+        <item>Juiz de Fora</item>
+        <item>Juramento</item>
+        <item>Juruaia</item>
+        <item>Juvenília</item>
+        <item>Ladainha</item>
+        <item>Lagamar</item>
+        <item>Lagoa da Prata</item>
+        <item>Lagoa dos Patos</item>
+        <item>Lagoa Dourada</item>
+        <item>Lagoa Formosa</item>
+        <item>Lagoa Grande</item>
+        <item>Lagoa Santa</item>
+        <item>Lajinha</item>
+        <item>Lambari</item>
+        <item>Lamim</item>
+        <item>Laranjal</item>
+        <item>Lassance</item>
+        <item>Lavras</item>
+        <item>Leandro Ferreira</item>
+        <item>Leme do Prado</item>
+        <item>Leopoldina</item>
+        <item>Liberdade</item>
+        <item>Lima Duarte</item>
+        <item>Limeira do Oeste</item>
+        <item>Lontra</item>
+        <item>Luisburgo</item>
+        <item>Luislândia</item>
+        <item>Luminárias</item>
+        <item>Luz</item>
+        <item>Machado</item>
+        <item>Madre de Deus de Minas</item>
+        <item>Malacacheta</item>
+        <item>Mamonas</item>
+        <item>Manga</item>
+        <item>Manhuaçu</item>
+        <item>Manhumirim</item>
+        <item>Mantena</item>
+        <item>Mar de Espanha</item>
+        <item>Maravilhas</item>
+        <item>Maria da Fé</item>
+        <item>Mariana</item>
+        <item>Marilac</item>
+        <item>Mário Campos</item>
+        <item>Maripá de Minas</item>
+        <item>Marliéria</item>
+        <item>Marmelópolis</item>
+        <item>Martinho Campos</item>
+        <item>Martins Soares</item>
+        <item>Mata Verde</item>
+        <item>Materlândia</item>
+        <item>Mateus Leme</item>
+        <item>Matias Barbosa</item>
+        <item>Matias Cardoso</item>
+        <item>Matias Lobato</item>
+        <item>Matipó</item>
+        <item>Mato Verde</item>
+        <item>Matozinhos</item>
+        <item>Matutina</item>
+        <item>Maxacalis</item>
+        <item>Medeiros</item>
+        <item>Medina</item>
+        <item>Mendes Pimentel</item>
+        <item>Mercês</item>
+        <item>Mesquita</item>
+        <item>Minas Novas</item>
+        <item>Minduri</item>
+        <item>Mirabela</item>
+        <item>Miradouro</item>
+        <item>Miraí</item>
+        <item>Miravânia</item>
+        <item>Moeda</item>
+        <item>Moema</item>
+        <item>Monjolos</item>
+        <item>Monsenhor Paulo</item>
+        <item>Montalvânia</item>
+        <item>Monte Alegre de Minas</item>
+        <item>Monte Azul</item>
+        <item>Monte Belo</item>
+        <item>Monte Carmelo</item>
+        <item>Monte Formoso</item>
+        <item>Monte Santo de Minas</item>
+        <item>Monte Sião</item>
+        <item>Montes Claros</item>
+        <item>Montezuma</item>
+        <item>Morada Nova de Minas</item>
+        <item>Morro da Garça</item>
+        <item>Morro do Pilar</item>
+        <item>Munhoz</item>
+        <item>Muriaé</item>
+        <item>Mutum</item>
+        <item>Muzambinho</item>
+        <item>Nacip Raydan</item>
+        <item>Nanuque</item>
+        <item>Naque</item>
+        <item>Natalândia</item>
+        <item>Natércia</item>
+        <item>Nazareno</item>
+        <item>Nepomuceno</item>
+        <item>Ninheira</item>
+        <item>Nova Belém</item>
+        <item>Nova Era</item>
+        <item>Nova Lima</item>
+        <item>Nova Módica</item>
+        <item>Nova Ponte</item>
+        <item>Nova Porteirinha</item>
+        <item>Nova Resende</item>
+        <item>Nova Serrana</item>
+        <item>Nova União</item>
+        <item>Novo Cruzeiro</item>
+        <item>Novo Oriente de Minas</item>
+        <item>Novorizonte</item>
+        <item>Olaria</item>
+        <item>Olhos-d\'água</item>
+        <item>Olímpio Noronha</item>
+        <item>Oliveira</item>
+        <item>Oliveira Fortes</item>
+        <item>Onça de Pitangui</item>
+        <item>Oratórios</item>
+        <item>Orizânia</item>
+        <item>Ouro Branco</item>
+        <item>Ouro Fino</item>
+        <item>Ouro Preto</item>
+        <item>Ouro Verde de Minas</item>
+        <item>Padre Carvalho</item>
+        <item>Padre Paraíso</item>
+        <item>Pai Pedro</item>
+        <item>Paineiras</item>
+        <item>Pains</item>
+        <item>Paiva</item>
+        <item>Palma</item>
+        <item>Palmópolis</item>
+        <item>Papagaios</item>
+        <item>Pará de Minas</item>
+        <item>Paracatu</item>
+        <item>Paraguaçu</item>
+        <item>Paraisópolis</item>
+        <item>Paraopeba</item>
+        <item>Passa-Quatro</item>
+        <item>Passa-Tempo</item>
+        <item>Passa-Vinte</item>
+        <item>Passabém</item>
+        <item>Passos</item>
+        <item>Patis</item>
+        <item>Patos de Minas</item>
+        <item>Patrocínio</item>
+        <item>Patrocínio do Muriaé</item>
+        <item>Paula Cândido</item>
+        <item>Paulistas</item>
+        <item>Pavão</item>
+        <item>Peçanha</item>
+        <item>Pedra Azul</item>
+        <item>Pedra Bonita</item>
+        <item>Pedra do Anta</item>
+        <item>Pedra do Indaiá</item>
+        <item>Pedra Dourada</item>
+        <item>Pedralva</item>
+        <item>Pedras de Maria da Cruz</item>
+        <item>Pedrinópolis</item>
+        <item>Pedro Leopoldo</item>
+        <item>Pedro Teixeira</item>
+        <item>Pequeri</item>
+        <item>Pequi</item>
+        <item>Perdigão</item>
+        <item>Perdizes</item>
+        <item>Perdões</item>
+        <item>Periquito</item>
+        <item>Pescador</item>
+        <item>Piau</item>
+        <item>Piedade de Caratinga</item>
+        <item>Piedade de Ponte Nova</item>
+        <item>Piedade do Rio Grande</item>
+        <item>Piedade dos Gerais</item>
+        <item>Pimenta</item>
+        <item>Pingo-d\'água</item>
+        <item>Pintópolis</item>
+        <item>Piracema</item>
+        <item>Pirajuba</item>
+        <item>Piranga</item>
+        <item>Piranguçu</item>
+        <item>Piranguinho</item>
+        <item>Pirapetinga</item>
+        <item>Pirapora</item>
+        <item>Piraúba</item>
+        <item>Pitangui</item>
+        <item>Piumhi</item>
+        <item>Planura</item>
+        <item>Poço Fundo</item>
+        <item>Poços de Caldas</item>
+        <item>Pocrane</item>
+        <item>Pompéu</item>
+        <item>Ponte Nova</item>
+        <item>Ponto Chique</item>
+        <item>Ponto dos Volantes</item>
+        <item>Porteirinha</item>
+        <item>Porto Firme</item>
+        <item>Poté</item>
+        <item>Pouso Alegre</item>
+        <item>Pouso Alto</item>
+        <item>Prados</item>
+        <item>Prata</item>
+        <item>Pratápolis</item>
+        <item>Pratinha</item>
+        <item>Presidente Bernardes</item>
+        <item>Presidente Juscelino</item>
+        <item>Presidente Kubitschek</item>
+        <item>Presidente Olegário</item>
+        <item>Prudente de Morais</item>
+        <item>Quartel Geral</item>
+        <item>Queluzito</item>
+        <item>Raposos</item>
+        <item>Raul Soares</item>
+        <item>Recreio</item>
+        <item>Reduto</item>
+        <item>Resende Costa</item>
+        <item>Resplendor</item>
+        <item>Ressaquinha</item>
+        <item>Riachinho</item>
+        <item>Riacho dos Machados</item>
+        <item>Ribeirão das Neves</item>
+        <item>Ribeirão Vermelho</item>
+        <item>Rio Acima</item>
+        <item>Rio Casca</item>
+        <item>Rio do Prado</item>
+        <item>Rio Doce</item>
+        <item>Rio Espera</item>
+        <item>Rio Manso</item>
+        <item>Rio Novo</item>
+        <item>Rio Paranaíba</item>
+        <item>Rio Pardo de Minas</item>
+        <item>Rio Piracicaba</item>
+        <item>Rio Pomba</item>
+        <item>Rio Preto</item>
+        <item>Rio Vermelho</item>
+        <item>Ritápolis</item>
+        <item>Rochedo de Minas</item>
+        <item>Rodeiro</item>
+        <item>Romaria</item>
+        <item>Rosário da Limeira</item>
+        <item>Rubelita</item>
+        <item>Rubim</item>
+        <item>Sabará</item>
+        <item>Sabinópolis</item>
+        <item>Sacramento</item>
+        <item>Salinas</item>
+        <item>Salto da Divisa</item>
+        <item>Santa Bárbara</item>
+        <item>Santa Bárbara do Leste</item>
+        <item>Santa Bárbara do Monte Verde</item>
+        <item>Santa Bárbara do Tugúrio</item>
+        <item>Santa Cruz de Minas</item>
+        <item>Santa Cruz de Salinas</item>
+        <item>Santa Cruz do Escalvado</item>
+        <item>Santa Efigênia de Minas</item>
+        <item>Santa Fé de Minas</item>
+        <item>Santa Helena de Minas</item>
+        <item>Santa Juliana</item>
+        <item>Santa Luzia</item>
+        <item>Santa Margarida</item>
+        <item>Santa Maria de Itabira</item>
+        <item>Santa Maria do Salto</item>
+        <item>Santa Maria do Suaçuí</item>
+        <item>Santa Rita de Caldas</item>
+        <item>Santa Rita de Minas</item>
+        <item>Santa Rita do Ibitipoca</item>
+        <item>Santa Rita do Itueto</item>
+        <item>Santa Rita do Jacutinga</item>
+        <item>Santa Rita do Sapucaí</item>
+        <item>Santa Rosa da Serra</item>
+        <item>Santa Vitória</item>
+        <item>Santana da Vargem</item>
+        <item>Santana de Cataguases</item>
+        <item>Santana de Pirapama</item>
+        <item>Santana do Deserto</item>
+        <item>Santana do Garambéu</item>
+        <item>Santana do Jacaré</item>
+        <item>Santana do Manhuaçu</item>
+        <item>Santana do Paraíso</item>
+        <item>Santana do Riacho</item>
+        <item>Santana dos Montes</item>
+        <item>Santo Antônio do Amparo</item>
+        <item>Santo Antônio do Aventureiro</item>
+        <item>Santo Antônio do Grama</item>
+        <item>Santo Antônio do Itambé</item>
+        <item>Santo Antônio do Jacinto</item>
+        <item>Santo Antônio do Monte</item>
+        <item>Santo Antônio do Retiro</item>
+        <item>Santo Antônio do Rio Abaixo</item>
+        <item>Santo Hipólito</item>
+        <item>Santos Dumont</item>
+        <item>São Bento Abade</item>
+        <item>São Brás do Suaçuí</item>
+        <item>São Domingos das Dores</item>
+        <item>São Domingos do Prata</item>
+        <item>São Félix de Minas</item>
+        <item>São Francisco</item>
+        <item>São Francisco de Paula</item>
+        <item>São Francisco de Sales</item>
+        <item>São Francisco do Glória</item>
+        <item>São Geraldo</item>
+        <item>São Geraldo da Piedade</item>
+        <item>São Geraldo do Baixio</item>
+        <item>São Gonçalo do Abaeté</item>
+        <item>São Gonçalo do Pará</item>
+        <item>São Gonçalo do Rio Abaixo</item>
+        <item>São Gonçalo do Rio Preto</item>
+        <item>São Gonçalo do Sapucaí</item>
+        <item>São Gotardo</item>
+        <item>São João Batista do Glória</item>
+        <item>São João da Lagoa</item>
+        <item>São João da Mata</item>
+        <item>São João da Ponte</item>
+        <item>São João das Missões</item>
+        <item>São João del-Rei</item>
+        <item>São João do Manhuaçu</item>
+        <item>São João do Manteninha</item>
+        <item>São João do Oriente</item>
+        <item>São João do Pacuí</item>
+        <item>São João do Paraíso</item>
+        <item>São João Evangelista</item>
+        <item>São João Nepomuceno</item>
+        <item>São Joaquim de Bicas</item>
+        <item>São José da Barra</item>
+        <item>São José da Lapa</item>
+        <item>São José da Safira</item>
+        <item>São José da Varginha</item>
+        <item>São José do Alegre</item>
+        <item>São José do Divino</item>
+        <item>São José do Goiabal</item>
+        <item>São José do Jacuri</item>
+        <item>São José do Mantimento</item>
+        <item>São Lourenço</item>
+        <item>São Miguel do Anta</item>
+        <item>São Pedro da União</item>
+        <item>São Pedro do Suaçuí</item>
+        <item>São Pedro dos Ferros</item>
+        <item>São Romão</item>
+        <item>São Roque de Minas</item>
+        <item>São Sebastião da Bela Vista</item>
+        <item>São Sebastião da Vargem Alegre</item>
+        <item>São Sebastião do Anta</item>
+        <item>São Sebastião do Maranhão</item>
+        <item>São Sebastião do Oeste</item>
+        <item>São Sebastião do Paraíso</item>
+        <item>São Sebastião do Rio Preto</item>
+        <item>São Sebastião do Rio Verde</item>
+        <item>São Tiago</item>
+        <item>São Tomás de Aquino</item>
+        <item>São Tomé das Letras</item>
+        <item>São Vicente de Minas</item>
+        <item>Sapucaí-Mirim</item>
+        <item>Sardoá</item>
+        <item>Sarzedo</item>
+        <item>Sem-Peixe</item>
+        <item>Senador Amaral</item>
+        <item>Senador Cortes</item>
+        <item>Senador Firmino</item>
+        <item>Senador José Bento</item>
+        <item>Senador Modestino Gonçalves</item>
+        <item>Senhora de Oliveira</item>
+        <item>Senhora do Porto</item>
+        <item>Senhora dos Remédios</item>
+        <item>Sericita</item>
+        <item>Seritinga</item>
+        <item>Serra Azul de Minas</item>
+        <item>Serra da Saudade</item>
+        <item>Serra do Salitre</item>
+        <item>Serra dos Aimorés</item>
+        <item>Serrania</item>
+        <item>Serranópolis de Minas</item>
+        <item>Serranos</item>
+        <item>Serro</item>
+        <item>Sete Lagoas</item>
+        <item>Setubinha</item>
+        <item>Silveirânia</item>
+        <item>Silvianópolis</item>
+        <item>Simão Pereira</item>
+        <item>Simonésia</item>
+        <item>Sobrália</item>
+        <item>Soledade de Minas</item>
+        <item>Tabuleiro</item>
+        <item>Taiobeiras</item>
+        <item>Taparuba</item>
+        <item>Tapira</item>
+        <item>Tapiraí</item>
+        <item>Taquaraçu de Minas</item>
+        <item>Tarumirim</item>
+        <item>Teixeiras</item>
+        <item>Teófilo Otôni</item>
+        <item>Timóteo</item>
+        <item>Tiradentes</item>
+        <item>Tiros</item>
+        <item>Tocantins</item>
+        <item>Tocos do Moji</item>
+        <item>Toledo</item>
+        <item>Tombos</item>
+        <item>Três Corações</item>
+        <item>Três Marias</item>
+        <item>Três Pontas</item>
+        <item>Tumiritinga</item>
+        <item>Tupaciguara</item>
+        <item>Turmalina</item>
+        <item>Turvolândia</item>
+        <item>Ubá</item>
+        <item>Ubaí</item>
+        <item>Ubaporanga</item>
+        <item>Uberaba</item>
+        <item>Uberlândia</item>
+        <item>Umburatiba</item>
+        <item>Unaí</item>
+        <item>União de Minas</item>
+        <item>Uruana de Minas</item>
+        <item>Urucânia</item>
+        <item>Urucuia</item>
+        <item>Vargem Alegre</item>
+        <item>Vargem Bonita</item>
+        <item>Vargem Grande do Rio Pardo</item>
+        <item>Varginha</item>
+        <item>Varjão de Minas</item>
+        <item>Várzea da Palma</item>
+        <item>Varzelândia</item>
+        <item>Vazante</item>
+        <item>Venceslau Brás</item>
+        <item>Verdelândia</item>
+        <item>Veredinha</item>
+        <item>Veríssimo</item>
+        <item>Vermelho Novo</item>
+        <item>Vespasiano</item>
+        <item>Viçosa</item>
+        <item>Vieiras</item>
+        <item>Virgem da Lapa</item>
+        <item>Virgínia</item>
+        <item>Virginópolis</item>
+        <item>Virgolândia</item>
+        <item>Visconde do Rio Branco</item>
+        <item>Volta Grande</item>
+    </string-array>
+</resources>
