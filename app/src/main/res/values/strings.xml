@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Municípios MG</string>
+    <string name="action_switch_layout">Mudar Layout</string>
+    <string name="detail_prefix">Cidades Que Iniciam Com</string>
 </resources>
