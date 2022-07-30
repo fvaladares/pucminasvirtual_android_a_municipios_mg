@@ -3,14 +3,17 @@ package br.pucminas.municipiosmg.ui.fragments
 import android.os.Bundle
 import android.view.*
 import androidx.core.content.ContextCompat
+import androidx.core.view.MenuHost
+import androidx.core.view.MenuProvider
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.Lifecycle
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import br.pucminas.municipiosmg.R
 import br.pucminas.municipiosmg.databinding.FragmentLetterListBinding
 
-class LetterListFragment : Fragment() {
+class LetterListFragment : Fragment(), MenuProvider {
     private var _binding: FragmentLetterListBinding? = null
     private val binding get() = _binding!!
     private lateinit var recyclerView: RecyclerView
@@ -18,7 +21,7 @@ class LetterListFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setHasOptionsMenu(true)
+//        setHasOptionsMenu(true)
     }
 
     override fun onCreateView(
@@ -30,6 +33,8 @@ class LetterListFragment : Fragment() {
             container,
             false
         )
+        val menuHost: MenuHost = requireActivity()
+        menuHost.addMenuProvider(this, viewLifecycleOwner, Lifecycle.State.RESUMED)
         return binding.root
     }
 
@@ -43,12 +48,12 @@ class LetterListFragment : Fragment() {
         _binding = null
     }
 
-    override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
-        inflater.inflate(R.menu.layout_menu, menu)
-
-        val layoutButton = menu.findItem(R.id.action_switch_layout)
-        setIcon(layoutButton)
-    }
+//    override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
+//        inflater.inflate(R.menu.layout_menu, menu)
+//
+//        val layoutButton = menu.findItem(R.id.action_switch_layout)
+//        setIcon(layoutButton)
+//    }
 
     private fun chooseLayout() {
         when (isLinearLayoutManager) {
@@ -73,17 +78,37 @@ class LetterListFragment : Fragment() {
             else ContextCompat.getDrawable(this.requireContext(), R.drawable.ic_list_view)
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
+//    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+//        return when (item.itemId) {
+//            R.id.action_switch_layout -> {
+//                isLinearLayoutManager = !isLinearLayoutManager
+//                chooseLayout()
+//                setIcon(item)
+//
+//                return true
+//            }
+//
+//            else -> super.onOptionsItemSelected(item)
+//        }
+//    }
+
+    override fun onCreateMenu(menu: Menu, menuInflater: MenuInflater) {
+        menuInflater.inflate(R.menu.layout_menu, menu)
+        val layoutButton = menu.findItem(R.id.action_switch_layout)
+        setIcon(layoutButton)
+    }
+
+    override fun onMenuItemSelected(menuItem: MenuItem): Boolean {
+        return when (menuItem.itemId) {
             R.id.action_switch_layout -> {
                 isLinearLayoutManager = !isLinearLayoutManager
                 chooseLayout()
-                setIcon(item)
+                setIcon(menuItem)
 
                 return true
             }
 
-            else -> super.onOptionsItemSelected(item)
+            else -> false
         }
     }
 }
