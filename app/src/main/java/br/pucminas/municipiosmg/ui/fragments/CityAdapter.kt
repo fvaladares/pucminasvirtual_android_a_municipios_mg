@@ -1,4 +1,4 @@
-package br.pucminas.municipiosmg.ui
+package br.pucminas.municipiosmg.ui.fragments
 
 import android.content.Context
 import android.content.Intent
@@ -13,14 +13,13 @@ import br.pucminas.municipiosmg.databinding.ItemViewButtonBinding
 class CityAdapter(
     private val cityLetterId: String,
     private val context: Context
-) :
-    RecyclerView.Adapter<CityAdapter.CityViewHolder>() {
+) : RecyclerView.Adapter<CityAdapter.CityViewHolder>() {
     private val filteredCities: List<String>
     private var _binding: ItemViewButtonBinding? = null
     private val binding get() = _binding!!
 
     init {
-        val cities = context.resources.getStringArray(R.array.cities)
+        val cities = context.resources.getStringArray(R.array.cities).toList()
         filteredCities = cities
             .filter { it.startsWith(cityLetterId, ignoreCase = true) }
             .shuffled()
@@ -50,13 +49,11 @@ class CityAdapter(
 
         holder.button.setOnClickListener {
             val queryUrl: Uri =
-                Uri.parse("${CitiesListActivity.SEARCH_PREFIX}$item ${CitiesListActivity.STATE}")
+                Uri.parse("${CityListFragment.SEARCH_PREFIX}$item ${CityListFragment.STATE}")
             val intent = Intent(Intent.ACTION_VIEW, queryUrl)
             context.startActivity(intent)
         }
     }
 
     override fun getItemCount() = filteredCities.size
-
-
 }
